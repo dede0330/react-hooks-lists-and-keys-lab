@@ -17,5 +17,5 @@ function ProjectList({ projects }) {
     </div>
   );
 }
-
+ /* yurp */
 export default ProjectList;
